@@ -1,2 +1,2 @@
-# Lugx_tempelate
-# Lugx_tempelate
+# Lugx_tempelate demo 
+https://lugx.tiiny.site/
